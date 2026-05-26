@@ -1,0 +1,5 @@
+<services>
+    <service type="artery::SybilService" name="SYBIL">
+        <listener port="2001" channel="180" aid="36"/>
+    </service>
+</services>
